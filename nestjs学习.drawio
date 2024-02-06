@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T08:58:37.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="BltIfnvqZHPYmY5eIQU-" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T09:00:57.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="unSxJp8PAdgZ9NL053wB" version="23.0.2" type="github">
   <diagram name="第 1 页" id="ZVVCxVtOo5jQRMP403fl">
     <mxGraphModel dx="2893" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-83X_V-BnBp6cREbU82-85" value="环境变量" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="D-83X_V-BnBp6cREbU82-85" value="环境变量" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="40" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-83X_V-BnBp6cREbU82-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D-83X_V-BnBp6cREbU82-86" target="D-83X_V-BnBp6cREbU82-52">
@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-83X_V-BnBp6cREbU82-86" value=".env" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="D-83X_V-BnBp6cREbU82-86" value=".env" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="178" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-83X_V-BnBp6cREbU82-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D-83X_V-BnBp6cREbU82-87" target="D-83X_V-BnBp6cREbU82-79">
@@ -128,7 +128,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-83X_V-BnBp6cREbU82-87" value="ormconfig.json" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="D-83X_V-BnBp6cREbU82-87" value="ormconfig.json" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="316" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-83X_V-BnBp6cREbU82-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D-83X_V-BnBp6cREbU82-88" target="D-83X_V-BnBp6cREbU82-79">
@@ -150,7 +150,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-83X_V-BnBp6cREbU82-89" value="ormconfig.ts" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="D-83X_V-BnBp6cREbU82-89" value="ormconfig.ts" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#66FFB3;" vertex="1" parent="1">
           <mxGeometry x="592" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-83X_V-BnBp6cREbU82-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D-83X_V-BnBp6cREbU82-90" target="D-83X_V-BnBp6cREbU82-91">
@@ -161,10 +161,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-83X_V-BnBp6cREbU82-90" value="ormconfig.yml" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="D-83X_V-BnBp6cREbU82-90" value="ormconfig.yml" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="730" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D-83X_V-BnBp6cREbU82-91" value="TypeORM CLI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="D-83X_V-BnBp6cREbU82-91" value="TypeORM CLI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#66FFB3;" vertex="1" parent="1">
           <mxGeometry x="880" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
